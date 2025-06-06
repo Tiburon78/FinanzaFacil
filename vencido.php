@@ -1,0 +1,1 @@
+<?php session_start(); ?><!DOCTYPE html><html><head><title>Prueba finalizada</title></head><body><h1>Tu período de prueba ha finalizado.</h1><p>Suscribite para seguir usando FinanzaFácil.</p></body></html>
